@@ -1,7 +1,7 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**Lumache** (/lu'make/) Bedirhan's lover.
 that creates recipes mixing random ingredients.
 It  from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
